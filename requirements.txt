@@ -1,0 +1,15 @@
+langchain
+langchain-google-genai
+google-generativeai
+faiss-cpu
+tiktoken
+chromadb
+streamlit
+fastapi
+uvicorn
+python-dotenv
+python-multipart
+langchain-community
+SpeechRecognition
+pyaudio
+pyttsx3
