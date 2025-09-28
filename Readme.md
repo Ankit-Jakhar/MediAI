@@ -28,7 +28,7 @@ medical-chatbot/
 ├── prompt.py                   # Prompt template for Gemini
 ├── interface/
 │   ├── streamlit_app.py        # Streamlit interface
-│   └── telegram_bot.py         # (Optional) Telegram bot interface
+│   └─   
 ├── data/                       # Store medical documents
 │   └── medical_docs.pdf
 ├── requirements.txt
@@ -93,7 +93,7 @@ docker run -p 8000:8000 medical-chatbot
 Create a `.env` file:
 
 ```env
-GEMINI_API_KEY=your_google_gemini_key_here
+GEMINI_API_KEY=your huggingface token
 ```
 
 Or set it in your system environment variables.
